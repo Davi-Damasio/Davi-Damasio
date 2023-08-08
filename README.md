@@ -9,7 +9,7 @@
 
 
 <div>
-<img heigth="50%" width="47%" src="https://github-readme-stats.davi-damasio.vercel.app/api?username=davi-damasio&theme=github_dark&hide=prs,issues,&show_icons=true"/>
+<img  width="47%" src="https://github-readme-stats.davi-damasio.vercel.app/api?username=davi-damasio&theme=github_dark&hide=prs,issues,&show_icons=true"/>
 
 <img  width="47%" src="https://github-readme-stats.davi-damasio.vercel.app/api/top-langs/?username=davi-damasio&theme=github_dark"/>
 
