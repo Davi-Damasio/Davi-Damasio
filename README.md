@@ -3,6 +3,10 @@
 
 -  Estou aprendendo Javascript
 -  Quero colaborar em projetos
+-  Atualmente cursando Análise e Desenvolvimento
+-  Estou montando um portfolio de desenvolvimento frontend
+
+
 
 <div>
 <img width="47%" src="https://github-readme-stats.davi-damasio.vercel.app/api?username=davi-damasio&theme=github_dark&hide=prs,issues,&show_icons=true"/>
