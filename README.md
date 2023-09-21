@@ -3,7 +3,7 @@
 
 -  Estou aprendendo Javascript
 -  Quero colaborar em projetos
--  Atualmente cursando Análise e Desenvolvimento
+-  Atualmente cursando Análise e Desenvolvimento de Sistemas
 -  Estou montando um portfolio de desenvolvimento frontend
 
 
